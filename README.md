@@ -19,9 +19,9 @@ My core expertise lies in **numerical simulations**, **high-performance computin
 
 My toolkit is primarily geared towards high-performance scientific computing and data analysis:
 
-* **Languages:** `Python` `Julia` `Fortran`
+* **Languages:** `Python` `Fortran`
 * **Scientific Computing:** `NumPy` `SciPy` `Matplotlib` `Jupyter` `MPI` `OpenMP`
-* **Neural Quantum States & ML:** `PyTorch` `JAX` (for optimization exploration)
+* **Neural Quantum States & ML:** `PyTorch` `JAX`
 * **Version Control:** `Git` `GitHub`
 
 ---
